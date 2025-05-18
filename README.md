@@ -1,4 +1,4 @@
-#[Travel Itinerary Generator Using AI](Travel-Itinerary-Generator-Using-AI)
+[Travel Itinerary Generator Using AI](Travel-Itinerary-Generator-Using-AI)
 ***
 
 [![GitHub license](https://img.shields.io/github/license/Meghanajakku/Travel-Itinerary-Generator-Using-AI)](LICENSE)
