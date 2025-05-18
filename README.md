@@ -68,8 +68,8 @@ Travel Itinerary Generator is a computer program that empowers travelers to effo
 1. Clone the repository:
 
    ```shell
-   https://github.com/Sanjeev-Kumar78/Travel-Itinerary-Generator.git
-   cd Travel-Itinerary-Generator
+   https://github.com/Meghanajakku/Travel-Itinerary-Generator-Using-AI.git
+   cd Travel-Itinerary-Generator-Using-AI
 2. Install required packages:
 
    ```shell
