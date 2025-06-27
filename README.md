@@ -98,23 +98,31 @@ python wsgi.py
 ## Screenshots
 
 **Home Page of Travel Itinerary Generator without Login.**
-![image]()
+![Image](https://github.com/user-attachments/assets/380d2713-c122-4472-99f8-d61ee926e88a)
 
 
 **Register Page / Sign Up**
-![image-1]()
+![Image](https://github.com/user-attachments/assets/f741cacf-314f-4576-895f-3bf6dbbf4957)
 
 
 **Login Page**
-![image-2]()
+![Image](https://github.com/user-attachments/assets/5f34f409-e00a-44cc-9a28-fd03a79a9223)
 
 
-**For Testing, I have taken Source Point as Hyderabad & Destination as Delhi, Starting Date of Journey: 23/05/2025, Return Date: 7/06/2025**
-![image-3]()
-
+**For Testing, I have taken Source Point as Hyderabad & Destination as Delhi, Starting Date of Journey: 16/05/2025, Return Date: 19/05/2025**
+![Image](https://github.com/user-attachments/assets/b9e8dfd4-dfee-4d20-b463-342e3dbf7614)
 
 **Itinerary Page**
-![image-4]()
+![Image](https://github.com/user-attachments/assets/5eb38b9d-2861-4955-9b1e-0aec1e1d20ea)
+
+![Image](https://github.com/user-attachments/assets/5bd6821b-ef59-44e2-9e93-9c6b80c563e3)
+
+**Weather Forecast**
+![Image](https://github.com/user-attachments/assets/f38b846c-2951-4c1d-b8d1-2e2ed87184b3)
+
+**Text Translator**
+![Image](https://github.com/user-attachments/assets/8cb573ab-cd03-42a1-bd93-0534bd6a116f)
+
 
 
 ## License
